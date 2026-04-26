@@ -6,6 +6,18 @@
       <description>10 Trang gần đây on 10XAI Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>demo</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/demo</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/demo</guid>
+    <description><![CDATA[ ádasdsdad. ]]></description>
+    <pubDate>Sun, 26 Apr 2026 07:19:32 GMT</pubDate>
+  </item><item>
+    <title>hello</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/hello</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/hello</guid>
+    <description><![CDATA[ ádasdasdad. ]]></description>
+    <pubDate>Sun, 26 Apr 2026 07:19:32 GMT</pubDate>
+  </item><item>
     <title>1. AI &amp; Automation - Tổng quan và ứng dụng</title>
     <link>https://automationwiki.10xai.top/N8N-Automation/1.-AI--and--Automation---T%E1%BB%95ng-quan-v%C3%A0-%E1%BB%A9ng-d%E1%BB%A5ng</link>
     <guid>https://automationwiki.10xai.top/N8N-Automation/1.-AI--and--Automation---T%E1%BB%95ng-quan-v%C3%A0-%E1%BB%A9ng-d%E1%BB%A5ng</guid>
@@ -52,18 +64,6 @@
     <link>https://automationwiki.10xai.top/N8N-Automation/LLM/Vai-tr%C3%B2-c%E1%BB%A7a-LLM-trong-Quy-tr%C3%ACnh-T%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a</link>
     <guid>https://automationwiki.10xai.top/N8N-Automation/LLM/Vai-tr%C3%B2-c%E1%BB%A7a-LLM-trong-Quy-tr%C3%ACnh-T%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a</guid>
     <description><![CDATA[ I. Lý thuyết 1.1. ]]></description>
-    <pubDate>Sun, 26 Apr 2026 06:05:43 GMT</pubDate>
-  </item><item>
-    <title>N8N 101 - Mục lục</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/N8N-101---M%E1%BB%A5c-l%E1%BB%A5c</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/N8N-101---M%E1%BB%A5c-l%E1%BB%A5c</guid>
-    <description><![CDATA[ 🗺️ N8N 101 - Mục lục (Map of Content) Chào mừng bạn đến với lộ trình học tập n8n và Tự động hóa thông minh. ]]></description>
-    <pubDate>Sun, 26 Apr 2026 06:05:43 GMT</pubDate>
-  </item><item>
-    <title>Phân biệt Trigger Node và Action Node</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/Ph%C3%A2n-bi%E1%BB%87t-Trigger-Node-v%C3%A0-Action-Node</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/Ph%C3%A2n-bi%E1%BB%87t-Trigger-Node-v%C3%A0-Action-Node</guid>
-    <description><![CDATA[ I. ]]></description>
     <pubDate>Sun, 26 Apr 2026 06:05:43 GMT</pubDate>
   </item>
     </channel>
