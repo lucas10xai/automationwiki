@@ -19,7 +19,7 @@ const config: QuartzConfig = {
       // tagId: "G-XXXXXXXXXX",
     },
     locale: "vi-VN",  // 🔧 LOCALE: Tiếng Việt
-    baseUrl: "notes.10xai.top",  // 🔧 DOMAIN: Public URL của bạn
+    baseUrl: "automationwiki.10xai.top",  // 🔧 DOMAIN: Public URL của bạn
     ignorePatterns: ["private", "templates", ".obsidian", "_archive", "_drafts"],  // 🔧 PRIVACY: Thư mục không publish
     defaultDateType: "modified",
     theme: {

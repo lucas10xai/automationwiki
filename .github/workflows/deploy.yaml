@@ -58,4 +58,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public      # Quartz output mặc định
           publish_branch: gh-pages   # branch chứa static files
-          cname: notes.10xai.top    # ← custom domain của bạn (xoá dòng này nếu không dùng)
+          cname: automationwiki.10xai.top    # custom domain
