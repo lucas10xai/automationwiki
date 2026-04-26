@@ -26,7 +26,7 @@ PageTitle.css = `
   align-items: center;
 }
 .page-title img {
-  max-height: 2.5rem;
+  max-height: 4rem;
   width: auto;
 }
 `
