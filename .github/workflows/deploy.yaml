@@ -1,0 +1,61 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main   # ← thay thành "v4" nếu bạn dùng branch khác
+  workflow_dispatch: # cho phép chạy thủ công từ tab Actions
+
+# Cấp quyền để Actions có thể push lên gh-pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Chỉ cho 1 lần deploy chạy cùng lúc, huỷ lần cũ nếu có lần mới hơn
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # ── 1. Checkout toàn bộ lịch sử (cần cho CreatedModifiedDate plugin) ──
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # ── 2. Setup Node.js ──
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: "npm"
+
+      # ── 3. Cache node_modules để tăng tốc ──
+      - name: Cache node_modules
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      # ── 4. Cài dependencies ──
+      - name: Install dependencies
+        run: npm ci
+
+      # ── 5. Build Quartz → thư mục public/ ──
+      - name: Build Quartz
+        run: npx quartz build
+
+      # ── 6. Deploy lên GitHub Pages ──
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public      # Quartz output mặc định
+          publish_branch: gh-pages   # branch chứa static files
+          cname: notes.10xai.top    # ← custom domain của bạn (xoá dòng này nếu không dùng)
