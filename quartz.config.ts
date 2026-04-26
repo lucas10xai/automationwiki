@@ -8,47 +8,53 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "10XAI Notes",  // 🔧 BRANDING: Tên hiển thị trên tab trình duyệt
+    pageTitleSuffix: " · 10XAI",  // 🔧 BRANDING: Suffix mỗi trang — "Tên Trang · 10XAI"
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
+      // 🔧 ANALYTICS: Đổi thành "google" + tagId nếu dùng GA4
+      // provider: "google",
+      // tagId: "G-XXXXXXXXXX",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    locale: "vi-VN",  // 🔧 LOCALE: Tiếng Việt
+    baseUrl: "notes.10xai.top",  // 🔧 DOMAIN: Public URL của bạn
+    ignorePatterns: ["private", "templates", ".obsidian", "_archive", "_drafts"],  // 🔧 PRIVACY: Thư mục không publish
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        // 🔧 TYPOGRAPHY: Bộ font tối giản, chuyên nghiệp cho thương hiệu 10XAI
+        header: "Inter",          // Modern, clean — dùng cho heading
+        body: "Inter",            // Nhất quán với header
+        code: "JetBrains Mono",   // Developer-friendly monospace
       },
       colors: {
+        // 🔧 COLORS LIGHT MODE — Tối giản, nền trắng tinh tế
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f8f9fa",          // Nền trang
+          lightgray: "#e9ecef",      // Đường kẻ, border
+          gray: "#adb5bd",           // Text phụ, placeholder
+          darkgray: "#343a40",       // Text chính
+          dark: "#212529",           // Heading, bold
+          secondary: "#0066cc",      // Link, accent chính — xanh 10XAI
+          tertiary: "#00b4d8",       // Hover, highlight nhẹ
+          highlight: "rgba(0, 102, 204, 0.08)",
+          textHighlight: "#caf0f888",
         },
+        // 🔧 COLORS DARK MODE — Nền tối chuyên nghiệp
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#0d1117",          // Nền trang — GitHub dark
+          lightgray: "#21262d",      // Card, sidebar background
+          gray: "#484f58",           // Border, divider
+          darkgray: "#c9d1d9",       // Text thường
+          dark: "#f0f6fc",           // Heading, bold text
+          secondary: "#58a6ff",      // Link, accent — xanh sáng
+          tertiary: "#79c0ff",       // Hover effect
+          highlight: "rgba(88, 166, 255, 0.1)",
+          textHighlight: "#003d6b88",
         },
       },
     },

@@ -1,11 +1,49 @@
+# ============================================================
+# System & macOS
+# ============================================================
 .DS_Store
-.gitignore
-node_modules
-public
-prof
+.DS_Store?
+._*
+Thumbs.db
+
+# ============================================================
+# Node / Build
+# ============================================================
+node_modules/
+public/
+prof/
 tsconfig.tsbuildinfo
-.obsidian
-.quartz-cache
+.quartz-cache/
+
+# ============================================================
+# Obsidian — TOÀN BỘ cấu hình nội bộ (KHÔNG bao giờ commit)
+# ============================================================
+.obsidian/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/history.md
+.obsidian/cache
+.obsidian/plugins/
+.obsidian/themes/
+
+# ============================================================
+# Nội dung riêng tư
+# ============================================================
 private/
+_private/
+_drafts/
+_archive/
+
+# ============================================================
+# Môi trường & bí mật
+# ============================================================
+.env
+.env.local
+.env.production
+*.secret
+
+# ============================================================
+# Replit (nếu có)
+# ============================================================
 .replit
 replit.nix

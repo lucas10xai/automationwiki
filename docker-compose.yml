@@ -1,0 +1,57 @@
+version: "3.8"
+
+# ============================================================
+# 10XAI Digital Garden — Quartz + Cloudflare Tunnel
+# Domain: notes.10xai.top
+# ============================================================
+
+services:
+  # ----------------------------------------------------------
+  # Quartz Static Site Generator & Server
+  # ----------------------------------------------------------
+  quartz:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: quartz_10xai
+    restart: unless-stopped
+    # Không expose port ra ngoài host — Cloudflare Tunnel kết nối trực tiếp
+    # Nếu muốn debug local, bỏ comment dòng dưới:
+    # ports:
+    #   - "8080:8080"
+    volumes:
+      # Mount thư mục content từ host vào container
+      # Khi restart, container sẽ build lại từ content mới nhất
+      - ./content:/usr/src/app/content:ro
+    environment:
+      - NODE_ENV=production
+    networks:
+      - tunnel_net
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:8080 || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s  # Quartz build cần thời gian khởi tạo
+
+  # ----------------------------------------------------------
+  # Cloudflare Tunnel — ánh xạ notes.10xai.top → quartz:8080
+  # ----------------------------------------------------------
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    container_name: cloudflared_quartz
+    restart: unless-stopped
+    command: tunnel --no-autoupdate run
+    environment:
+      # Token lấy từ: Cloudflare Zero Trust → Access → Tunnels → Create Tunnel
+      - TUNNEL_TOKEN=${CLOUDFLARE_TUNNEL_TOKEN}
+    networks:
+      - tunnel_net
+    depends_on:
+      quartz:
+        condition: service_healthy
+
+networks:
+  tunnel_net:
+    name: tunnel_10xai_net
+    driver: bridge
