@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main   # ← thay thành "v4" nếu bạn dùng branch khác
+      - v4   # branch chính của repo my-digital-garden
   workflow_dispatch: # cho phép chạy thủ công từ tab Actions
 
 # Cấp quyền để Actions có thể push lên gh-pages
