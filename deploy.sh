@@ -20,7 +20,7 @@ err()  { echo -e "${RED}[✗]${NC} $1"; exit 1; }
 # ---------- Config ----------
 REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 GITHUB_REMOTE="origin"
-BRANCH="main"
+BRANCH="v4"
 COMMIT_MSG="${1:-"chore: sync vault content $(date '+%Y-%m-%d %H:%M')"}"
 
 # ---------- Bước 1: Kiểm tra git ----------
