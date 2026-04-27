@@ -6,65 +6,65 @@
       <description>10 Trang gần đây on 10XAI Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>N8N 101 - Bản đồ lộ trình</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/00-N8N-101---M%E1%BB%A5c-l%E1%BB%A5c</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/00-N8N-101---M%E1%BB%A5c-l%E1%BB%A5c</guid>
-    <description><![CDATA[  Điều hướng Tới trang chủ: Wiki N8N Automation Bài trước: 02-Giới thiệu n8n và triết lý low-code Bài tiếp theo: 03-Cài đặt n8n Self-host qua Docker 🗺️ N8N 101 - Mục lục (Map of Content) Giới thiệu Chào mừng bạn đến với lộ trình học tập n8n và Tự động hóa thông minh. ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:34:29 GMT</pubDate>
+    <title>1. AI &amp; Automation - Tổng quan và ứng dụng</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/1-T%C6%B0-duy-v%C3%A0-Nh%E1%BA%ADp-m%C3%B4n/01-AI--and--Automation---T%E1%BB%95ng-quan-v%C3%A0-%E1%BB%A9ng-d%E1%BB%A5ng</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/1-T%C6%B0-duy-v%C3%A0-Nh%E1%BA%ADp-m%C3%B4n/01-AI--and--Automation---T%E1%BB%95ng-quan-v%C3%A0-%E1%BB%A9ng-d%E1%BB%A5ng</guid>
+    <description><![CDATA[  Điều hướng Bài trước: 🏠 Wiki N8N - Trang chủ Bài tiếp theo: 02-Giới thiệu n8n và triết lý low-code Mục tiêu bài học Bài học này cung cấp cái nhìn tổng quan về Trí tuệ nhân tạo (AI) và Tự động hóa (Automation), cũng như sức mạnh khi kết hợp hai khái niệm này lại với nhau. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
   </item><item>
-    <title>21 - Kết nối OpenAI và Anthropic Claude vào n8n</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/21-K%E1%BA%BFt-n%E1%BB%91i-OpenAI-v%C3%A0-Anthropic-Claude-v%C3%A0o-n8n</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/21-K%E1%BA%BFt-n%E1%BB%91i-OpenAI-v%C3%A0-Anthropic-Claude-v%C3%A0o-n8n</guid>
-    <description><![CDATA[  Điều hướng Mục lục: 00-N8N 101 - Mục lục Bài trước: 12-Vai trò của LLM trong Quy trình Tự động hóa Bài tiếp theo: 22-Xây dựng AI Agent với các Tools tùy chỉnh 💬 Kết nối OpenAI (ChatGPT) / Anthropic (Claude) vào n8n Tổng quan n8n tích hợp sẵn các node cho OpenAI, Anthropic Claude, Google Gemini và ... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:34:29 GMT</pubDate>
-  </item><item>
-    <title>22 - Xây dựng AI Agent với các Tools tùy chỉnh</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/22-X%C3%A2y-d%E1%BB%B1ng-AI-Agent-v%E1%BB%9Bi-c%C3%A1c-Tools-t%C3%B9y-ch%E1%BB%89nh</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/22-X%C3%A2y-d%E1%BB%B1ng-AI-Agent-v%E1%BB%9Bi-c%C3%A1c-Tools-t%C3%B9y-ch%E1%BB%89nh</guid>
-    <description><![CDATA[  Điều hướng Mục lục: 00-N8N 101 - Mục lục Bài trước: 21-Kết nối OpenAI và Anthropic Claude vào n8n Bài tiếp theo: 23-Ứng dụng RAG và Vector Store trong n8n 🕵️ Xây dựng AI Agent với các Tools tùy chỉnh Tổng quan AI Agent trong n8n không chỉ “trả lời câu hỏi” — nó tự quyết định cần dùng công cụ nào, ... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:34:29 GMT</pubDate>
-  </item><item>
-    <title>23 - Ứng dụng RAG và Vector Store trong n8n</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/23-%E1%BB%A8ng-d%E1%BB%A5ng-RAG-v%C3%A0-Vector-Store-trong-n8n</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/23-%E1%BB%A8ng-d%E1%BB%A5ng-RAG-v%C3%A0-Vector-Store-trong-n8n</guid>
-    <description><![CDATA[  Điều hướng Mục lục: 00-N8N 101 - Mục lục Bài trước: 22-Xây dựng AI Agent với các Tools tùy chỉnh Bài tiếp theo: 24-Cấp phát Memory cho AI Agent 📚 Ứng dụng RAG (Retrieval-Augmented Generation) &amp; Vector Store Tổng quan RAG là kỹ thuật giúp AI “đọc” và “nhớ” tài liệu riêng của bạn — không cần fin... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:34:29 GMT</pubDate>
-  </item><item>
-    <title>24 - Cấp phát Memory cho AI Agent</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/24-C%E1%BA%A5p-ph%C3%A1t-Memory-cho-AI-Agent</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/24-C%E1%BA%A5p-ph%C3%A1t-Memory-cho-AI-Agent</guid>
-    <description><![CDATA[  Điều hướng Mục lục: 00-N8N 101 - Mục lục Bài trước: 23-Ứng dụng RAG và Vector Store trong n8n Bài tiếp theo: 13-Dự án - Kết nối Lark với Obsidian qua n8n 🧠 Cấp phát Memory cho AI Agent Tổng quan Mặc định, mỗi lần bạn nhắn tin với AI là một cuộc hội thoại hoàn toàn mới — AI không nhớ bạn đã nói gì ... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:34:29 GMT</pubDate>
-  </item><item>
-    <title>🚀 n8n Automation Wiki Toàn Tập</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/</guid>
-    <description><![CDATA[  🌟 Chào mừng đến với n8n Automation Wiki! Đây là nơi tổng hợp tất cả kiến thức về n8n từ cơ bản đến nâng cao. ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:34:29 GMT</pubDate>
+    <title>Cài đặt n8n Self-host qua Docker</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/03-C%C3%A0i-%C4%91%E1%BA%B7t-n8n-Self-host-qua-Docker</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/03-C%C3%A0i-%C4%91%E1%BA%B7t-n8n-Self-host-qua-Docker</guid>
+    <description><![CDATA[  Điều hướng Tới trang chủ: Wiki N8N Automation Bài trước: 🏠 Wiki N8N - Trang chủ Bài tiếp theo: 04-Cài đặt n8n trên Instance EC2 Amazon Web Service Cài đặt n8n Self-host qua Docker 1. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
   </item><item>
     <title>14 - Sử dụng Expressions &amp; Formulas trong n8n</title>
     <link>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/14-S%E1%BB%AD-d%E1%BB%A5ng-Expressions-v%C3%A0-Formulas-trong-n8n</link>
     <guid>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/14-S%E1%BB%AD-d%E1%BB%A5ng-Expressions-v%C3%A0-Formulas-trong-n8n</guid>
-    <description><![CDATA[  Điều hướng Mục lục: 00-N8N 101 - Mục lục Bài trước: 11-Quản lí Credential (Thông tin xác thực) Bài tiếp theo: 15-Node HTTP Request - Gọi bất kỳ API nào 💻 Sử dụng Expressions &amp; Formulas trong n8n Tổng quan Expressions là “ngôn ngữ bí mật” của n8n — cho phép bạn truy cập dữ liệu động, biến đổi g... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:21:45 GMT</pubDate>
+    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 11-Quản lí Credential (Thông tin xác thực) Bài tiếp theo: 15-Node HTTP Request - Gọi bất kỳ API nào 💻 Sử dụng Expressions &amp; Formulas trong n8n Tổng quan Expressions là “ngôn ngữ bí mật” của n8n — cho phép bạn truy cập dữ liệu động, biến đổ... ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
   </item><item>
     <title>15 - Node HTTP Request - Gọi bất kỳ API nào</title>
     <link>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/15-Node-HTTP-Request---G%E1%BB%8Di-b%E1%BA%A5t-k%E1%BB%B3-API-n%C3%A0o</link>
     <guid>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/15-Node-HTTP-Request---G%E1%BB%8Di-b%E1%BA%A5t-k%E1%BB%B3-API-n%C3%A0o</guid>
-    <description><![CDATA[  Điều hướng Mục lục: 00-N8N 101 - Mục lục Bài trước: 14-Sử dụng Expressions và Formulas trong n8n Bài tiếp theo: 16-Node Code - Viết code tùy chỉnh JavaScript Python 🌐 Node HTTP Request — Gọi bất kỳ API nào Tổng quan HTTP Request là node mạnh mẽ nhất trong n8n. ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:21:45 GMT</pubDate>
+    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 14-Sử dụng Expressions và Formulas trong n8n Bài tiếp theo: 16-Node Code - Viết code tùy chỉnh JavaScript Python 🌐 Node HTTP Request — Gọi bất kỳ API nào Tổng quan HTTP Request là node mạnh mẽ nhất trong n8n. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
   </item><item>
     <title>16 - Node Code - Viết code tùy chỉnh JavaScript/Python</title>
     <link>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/16-Node-Code---Vi%E1%BA%BFt-code-t%C3%B9y-ch%E1%BB%89nh-JavaScript-Python</link>
     <guid>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/16-Node-Code---Vi%E1%BA%BFt-code-t%C3%B9y-ch%E1%BB%89nh-JavaScript-Python</guid>
-    <description><![CDATA[  Điều hướng Mục lục: 00-N8N 101 - Mục lục Bài trước: 15-Node HTTP Request - Gọi bất kỳ API nào Bài tiếp theo: 17-Error Handling - Bắt lỗi và xử lý ngoại lệ 🧑‍💻 Node Code — Viết code tùy chỉnh JavaScript/Python Tổng quan Khi các node có sẵn không đủ sức xử lý logic phức tạp, Code Node là “vũ khí hạ... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:21:45 GMT</pubDate>
+    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 15-Node HTTP Request - Gọi bất kỳ API nào Bài tiếp theo: 17-Error Handling - Bắt lỗi và xử lý ngoại lệ 🧑‍💻 Node Code — Viết code tùy chỉnh JavaScript/Python Tổng quan Khi các node có sẵn không đủ sức xử lý logic phức tạp, Code Node là “vũ khí... ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
   </item><item>
     <title>17 - Error Handling - Bắt lỗi và xử lý ngoại lệ</title>
     <link>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/17-Error-Handling---B%E1%BA%AFt-l%E1%BB%97i-v%C3%A0-x%E1%BB%AD-l%C3%BD-ngo%E1%BA%A1i-l%E1%BB%87</link>
     <guid>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/17-Error-Handling---B%E1%BA%AFt-l%E1%BB%97i-v%C3%A0-x%E1%BB%AD-l%C3%BD-ngo%E1%BA%A1i-l%E1%BB%87</guid>
-    <description><![CDATA[  Điều hướng Mục lục: 00-N8N 101 - Mục lục Bài trước: 16-Node Code - Viết code tùy chỉnh JavaScript Python Bài tiếp theo: 18-Execute Workflow Node - Thiết kế Sub-workflows 🛡️ Error Handling — Bắt lỗi và xử lý ngoại lệ Tổng quan Workflow trong môi trường production luôn có thể gặp lỗi — API bị timeou... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:21:45 GMT</pubDate>
+    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 16-Node Code - Viết code tùy chỉnh JavaScript Python Bài tiếp theo: 18-Execute Workflow Node - Thiết kế Sub-workflows 🛡️ Error Handling — Bắt lỗi và xử lý ngoại lệ Tổng quan Workflow trong môi trường production luôn có thể gặp lỗi — API bị tim... ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
+  </item><item>
+    <title>18 - Execute Workflow Node - Thiết kế Sub-workflows</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/18-Execute-Workflow-Node---Thi%E1%BA%BFt-k%E1%BA%BF-Sub-workflows</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/18-Execute-Workflow-Node---Thi%E1%BA%BFt-k%E1%BA%BF-Sub-workflows</guid>
+    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 17-Error Handling - Bắt lỗi và xử lý ngoại lệ Bài tiếp theo: 19-Webhooks - Nhận dữ liệu thời gian thực 🔁 Execute Workflow Node — Thiết kế Sub-workflows Tổng quan Sub-workflow là kỹ thuật tách workflow lớn thành các phần nhỏ, có thể tái sử dụng... ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
+  </item><item>
+    <title>19 - Webhooks - Nhận dữ liệu thời gian thực</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/19-Webhooks---Nh%E1%BA%ADn-d%E1%BB%AF-li%E1%BB%87u-th%E1%BB%9Di-gian-th%E1%BB%B1c</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/19-Webhooks---Nh%E1%BA%ADn-d%E1%BB%AF-li%E1%BB%87u-th%E1%BB%9Di-gian-th%E1%BB%B1c</guid>
+    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 18-Execute Workflow Node - Thiết kế Sub-workflows Bài tiếp theo: 20-Xử lý mảng Arrays Batching và Phân trang Pagination 🎣 Webhooks — Nhận dữ liệu thời gian thực Tổng quan Webhook là cơ chế để các ứng dụng bên ngoài chủ động gửi dữ liệu vào n8n... ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
+  </item><item>
+    <title>20 - Xử lý mảng (Arrays), Batching và Phân trang (Pagination)</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/20-X%E1%BB%AD-l%C3%BD-m%E1%BA%A3ng-Arrays-Batching-v%C3%A0-Ph%C3%A2n-trang-Pagination</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/20-X%E1%BB%AD-l%C3%BD-m%E1%BA%A3ng-Arrays-Batching-v%C3%A0-Ph%C3%A2n-trang-Pagination</guid>
+    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 19-Webhooks - Nhận dữ liệu thời gian thực Bài tiếp theo: 12-Vai trò của LLM trong Quy trình Tự động hóa 📦 Xử lý mảng (Arrays), Batching và Phân trang (Pagination) Tổng quan Trong thực tế, workflows thường phải xử lý hàng trăm đến hàng nghìn it... ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
+  </item><item>
+    <title>Vai trò của LLM trong Quy trình Tự động hóa</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/12-Vai-tr%C3%B2-c%E1%BB%A7a-LLM-trong-Quy-tr%C3%ACnh-T%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/12-Vai-tr%C3%B2-c%E1%BB%A7a-LLM-trong-Quy-tr%C3%ACnh-T%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a</guid>
+    <description><![CDATA[  I. Lý thuyết 1.1. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
   </item>
     </channel>
   </rss>
