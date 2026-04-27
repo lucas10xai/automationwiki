@@ -59,10 +59,10 @@ Nắm vững các khái niệm nền tảng để xây dựng bất kỳ workflo
 Tận dụng tính năng Advanced AI của n8n để biến workflow thành một AI Agent tự hành.
 
 - 🧠 [[12-Vai trò của LLM trong Quy trình Tự động hóa|Vai trò của LLM trong Automation]]
-- 💬 *[Sắp ra mắt] Kết nối OpenAI (ChatGPT) / Anthropic (Claude) vào n8n*
-- 🕵️ *[Sắp ra mắt] Xây dựng AI Agent với các Tools tùy chỉnh*
-- 📚 *[Sắp ra mắt] Ứng dụng RAG (Retrieval-Augmented Generation) & Vector Store*
-- 🧠 *[Sắp ra mắt] Cấp phát Memory cho AI Agent*
+- 💬 [[21-Kết nối OpenAI và Anthropic Claude vào n8n|Kết nối OpenAI (ChatGPT) / Anthropic (Claude) vào n8n]]
+- 🕵️ [[22-Xây dựng AI Agent với các Tools tùy chỉnh|Xây dựng AI Agent với các Tools tùy chỉnh]]
+- 📚 [[23-Ứng dụng RAG và Vector Store trong n8n|Ứng dụng RAG (Retrieval-Augmented Generation) & Vector Store]]
+- 🧠 [[24-Cấp phát Memory cho AI Agent|Cấp phát Memory cho AI Agent]]
 
 ---
 
