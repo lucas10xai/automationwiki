@@ -79,9 +79,9 @@ Thực chiến với các bài toán Automation ứng dụng thực tế.
 ---
 
 ## 📚 Phần 7: Tài nguyên & Best Practices
-- 🏆 *[Sắp ra mắt] Best Practices: Cách tổ chức một workflow gọn gàng, dễ bảo trì*
-- 🌍 *[Sắp ra mắt] Tổng hợp các nguồn học n8n và Cộng đồng*
-- 💡 *[Sắp ra mắt] Các Node cộng đồng (Community Nodes) hữu ích nhất*
+- 🏆 [[27-Best Practices Cách tổ chức Workflow gọn gàng dễ bảo trì|Best Practices: Cách tổ chức một workflow gọn gàng, dễ bảo trì]]
+- 🌍 [[28-Tổng hợp các nguồn học n8n và Cộng đồng|Tổng hợp các nguồn học n8n và Cộng đồng]]
+- 💡 [[29-Các Node cộng đồng Community Nodes hữu ích nhất|Các Node cộng đồng (Community Nodes) hữu ích nhất]]
 
 ---
 
