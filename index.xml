@@ -6,6 +6,12 @@
       <description>10 Trang gần đây on 10XAI Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>🚀 n8n Automation Wiki Toàn Tập</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/</guid>
+    <description><![CDATA[  🌟 Chào mừng đến với n8n Automation Wiki! Đây là nơi tổng hợp tất cả kiến thức về n8n từ cơ bản đến nâng cao. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:27:32 GMT</pubDate>
+  </item><item>
     <title>N8N 101 - Bản đồ lộ trình</title>
     <link>https://automationwiki.10xai.top/N8N-Automation/00-N8N-101---M%E1%BB%A5c-l%E1%BB%A5c</link>
     <guid>https://automationwiki.10xai.top/N8N-Automation/00-N8N-101---M%E1%BB%A5c-l%E1%BB%A5c</guid>
@@ -58,12 +64,6 @@
     <link>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/12-Vai-tr%C3%B2-c%E1%BB%A7a-LLM-trong-Quy-tr%C3%ACnh-T%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a</link>
     <guid>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/12-Vai-tr%C3%B2-c%E1%BB%A7a-LLM-trong-Quy-tr%C3%ACnh-T%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a</guid>
     <description><![CDATA[  I. Lý thuyết 1.1. ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:21:45 GMT</pubDate>
-  </item><item>
-    <title>13-Dự án - Kết nối Lark với Obsidian qua n8n</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/6-D%E1%BB%B1-%C3%A1n-th%E1%BB%B1c-h%C3%A0nh/13-D%E1%BB%B1-%C3%A1n---K%E1%BA%BFt-n%E1%BB%91i-Lark-v%E1%BB%9Bi-Obsidian-qua-n8n</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/6-D%E1%BB%B1-%C3%A1n-th%E1%BB%B1c-h%C3%A0nh/13-D%E1%BB%B1-%C3%A1n---K%E1%BA%BFt-n%E1%BB%91i-Lark-v%E1%BB%9Bi-Obsidian-qua-n8n</guid>
-    <description><![CDATA[  Điều hướng Bài trước: 12-Vai trò của LLM trong Quy trình Tự động hóa 🚀 Dự án thực hành: Kết nối Lark với Obsidian qua n8n Giới thiệu Trong dự án thực tế này, chúng ta sẽ xây dựng một quy trình (workflow) hoàn chỉnh để kết nối Lark Suite với Obsidian, sử dụng sức mạnh của n8n và các kỹ thuật đã học... ]]></description>
     <pubDate>Mon, 27 Apr 2026 02:21:45 GMT</pubDate>
   </item>
     </channel>
