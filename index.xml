@@ -6,65 +6,65 @@
       <description>10 Trang gần đây on 10XAI Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>demo</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/demo</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/demo</guid>
-    <description><![CDATA[ ádasdsdad. ]]></description>
-    <pubDate>Sun, 26 Apr 2026 07:19:32 GMT</pubDate>
-  </item><item>
-    <title>hello</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/hello</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/hello</guid>
-    <description><![CDATA[ ádasdasdad. ]]></description>
-    <pubDate>Sun, 26 Apr 2026 07:19:32 GMT</pubDate>
+    <title>N8N 101 - Bản đồ lộ trình</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/00-N8N-101---M%E1%BB%A5c-l%E1%BB%A5c</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/00-N8N-101---M%E1%BB%A5c-l%E1%BB%A5c</guid>
+    <description><![CDATA[  Điều hướng Tới trang chủ: Wiki N8N Automation Bài trước: 02-Giới thiệu n8n và triết lý low-code Bài tiếp theo: 03-Cài đặt n8n Self-host qua Docker 🗺️ N8N 101 - Mục lục (Map of Content) Giới thiệu Chào mừng bạn đến với lộ trình học tập n8n và Tự động hóa thông minh. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:14:07 GMT</pubDate>
   </item><item>
     <title>1. AI &amp; Automation - Tổng quan và ứng dụng</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/1.-AI--and--Automation---T%E1%BB%95ng-quan-v%C3%A0-%E1%BB%A9ng-d%E1%BB%A5ng</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/1.-AI--and--Automation---T%E1%BB%95ng-quan-v%C3%A0-%E1%BB%A9ng-d%E1%BB%A5ng</guid>
-    <description><![CDATA[ I. Giới thiệu: Trí tuệ nhân tạo (AI) 1.1. ]]></description>
-    <pubDate>Sun, 26 Apr 2026 06:05:43 GMT</pubDate>
+    <link>https://automationwiki.10xai.top/N8N-Automation/1-T%C6%B0-duy-v%C3%A0-Nh%E1%BA%ADp-m%C3%B4n/01-AI--and--Automation---T%E1%BB%95ng-quan-v%C3%A0-%E1%BB%A9ng-d%E1%BB%A5ng</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/1-T%C6%B0-duy-v%C3%A0-Nh%E1%BA%ADp-m%C3%B4n/01-AI--and--Automation---T%E1%BB%95ng-quan-v%C3%A0-%E1%BB%A9ng-d%E1%BB%A5ng</guid>
+    <description><![CDATA[  Điều hướng Bài trước: 00-N8N 101 - Mục lục Bài tiếp theo: 02-Giới thiệu n8n và triết lý low-code Mục tiêu bài học Bài học này cung cấp cái nhìn tổng quan về Trí tuệ nhân tạo (AI) và Tự động hóa (Automation), cũng như sức mạnh khi kết hợp hai khái niệm này lại với nhau. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:14:07 GMT</pubDate>
   </item><item>
     <title>2. Giới thiệu n8n và triết lý low-code</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/2.-Gi%E1%BB%9Bi-thi%E1%BB%87u-n8n-v%C3%A0-tri%E1%BA%BFt-l%C3%BD-low-code</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/2.-Gi%E1%BB%9Bi-thi%E1%BB%87u-n8n-v%C3%A0-tri%E1%BA%BFt-l%C3%BD-low-code</guid>
-    <description><![CDATA[ I. n8n là gì? 1.1. ]]></description>
-    <pubDate>Sun, 26 Apr 2026 06:05:43 GMT</pubDate>
-  </item><item>
-    <title>Core Nodes &amp; Nguyên tắc Dataflow trong n8n</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/Core-Nodes--and--Nguy%C3%AAn-t%E1%BA%AFc-Dataflow-trong-n8n</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/Core-Nodes--and--Nguy%C3%AAn-t%E1%BA%AFc-Dataflow-trong-n8n</guid>
-    <description><![CDATA[ I. Giới thiệu Trong bài học này, chúng ta sẽ tìm hiểu về Core Nodes (Các Node Cốt Lõi) và Nguyên tắc Dataflow (Logic vận hành Dữ liệu). ]]></description>
-    <pubDate>Sun, 26 Apr 2026 06:05:43 GMT</pubDate>
+    <link>https://automationwiki.10xai.top/N8N-Automation/1-T%C6%B0-duy-v%C3%A0-Nh%E1%BA%ADp-m%C3%B4n/02-Gi%E1%BB%9Bi-thi%E1%BB%87u-n8n-v%C3%A0-tri%E1%BA%BFt-l%C3%BD-low-code</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/1-T%C6%B0-duy-v%C3%A0-Nh%E1%BA%ADp-m%C3%B4n/02-Gi%E1%BB%9Bi-thi%E1%BB%87u-n8n-v%C3%A0-tri%E1%BA%BFt-l%C3%BD-low-code</guid>
+    <description><![CDATA[  Điều hướng Bài trước: 01-AI &amp; Automation - Tổng quan và ứng dụng Bài tiếp theo: 03-Cài đặt n8n Self-host qua Docker I. n8n là gì? 1.1. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:14:07 GMT</pubDate>
   </item><item>
     <title>Cài đặt n8n Self-host qua Docker</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/C%C3%A0i-%C4%91%E1%BA%B7t-n8n-Self-host-qua-Docker</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/C%C3%A0i-%C4%91%E1%BA%B7t-n8n-Self-host-qua-Docker</guid>
-    <description><![CDATA[ I. ]]></description>
-    <pubDate>Sun, 26 Apr 2026 06:05:43 GMT</pubDate>
+    <link>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/03-C%C3%A0i-%C4%91%E1%BA%B7t-n8n-Self-host-qua-Docker</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/03-C%C3%A0i-%C4%91%E1%BA%B7t-n8n-Self-host-qua-Docker</guid>
+    <description><![CDATA[  Điều hướng Tới trang chủ: Wiki N8N Automation Bài trước: 00-N8N 101 - Mục lục Bài tiếp theo: 04-Cài đặt n8n trên Instance EC2 Amazon Web Service Cài đặt n8n Self-host qua Docker 1. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:14:07 GMT</pubDate>
   </item><item>
     <title>Cài đặt n8n trên Instance EC2 Amazon Web Service</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/C%C3%A0i-%C4%91%E1%BA%B7t-n8n-tr%C3%AAn-Instance-EC2-Amazon-Web-Service</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/C%C3%A0i-%C4%91%E1%BA%B7t-n8n-tr%C3%AAn-Instance-EC2-Amazon-Web-Service</guid>
-    <description><![CDATA[ I. ]]></description>
-    <pubDate>Sun, 26 Apr 2026 06:05:43 GMT</pubDate>
+    <link>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/04-C%C3%A0i-%C4%91%E1%BA%B7t-n8n-tr%C3%AAn-Instance-EC2-Amazon-Web-Service</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/04-C%C3%A0i-%C4%91%E1%BA%B7t-n8n-tr%C3%AAn-Instance-EC2-Amazon-Web-Service</guid>
+    <description><![CDATA[  Điều hướng Tới trang chủ: Wiki N8N Automation Bài trước: 03-Cài đặt n8n Self-host qua Docker Bài tiếp theo: 05-Cài đặt n8n trên Instance Raspberry Pi Cài đặt n8n trên Instance EC2 Amazon Web Service Mục tiêu Bài học này hướng dẫn bạn tự tay triển khai một phiên bản n8n của riêng mình trên nền tảng ... ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:14:07 GMT</pubDate>
   </item><item>
     <title>Cài đặt n8n trên Instance Raspberry Pi</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/C%C3%A0i-%C4%91%E1%BA%B7t-n8n-tr%C3%AAn-Instance-Raspberry-Pi</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/C%C3%A0i-%C4%91%E1%BA%B7t-n8n-tr%C3%AAn-Instance-Raspberry-Pi</guid>
-    <description><![CDATA[ I. ]]></description>
-    <pubDate>Sun, 26 Apr 2026 06:05:43 GMT</pubDate>
+    <link>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/05-C%C3%A0i-%C4%91%E1%BA%B7t-n8n-tr%C3%AAn-Instance-Raspberry-Pi</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/05-C%C3%A0i-%C4%91%E1%BA%B7t-n8n-tr%C3%AAn-Instance-Raspberry-Pi</guid>
+    <description><![CDATA[  Điều hướng Tới trang chủ: Wiki N8N Automation Bài trước: 04-Cài đặt n8n trên Instance EC2 Amazon Web Service Bài tiếp theo: 06-Phân biệt Trigger Node và Action Node Cài đặt n8n trên Instance Raspberry Pi Mục tiêu Bài học này hướng dẫn bạn biến một chiếc máy tính nhỏ gọn Raspberry Pi thành một máy c... ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:14:07 GMT</pubDate>
   </item><item>
-    <title>Data Transformation &amp; Flow Control Nodes trong n8n</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/Data-Transformation--and--Flow-Control-Nodes-trong-n8n</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/Data-Transformation--and--Flow-Control-Nodes-trong-n8n</guid>
-    <description><![CDATA[ I. ]]></description>
-    <pubDate>Sun, 26 Apr 2026 06:05:43 GMT</pubDate>
+    <title>Phân biệt Trigger Node và Action Node</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/3-K%E1%BB%B9-n%C4%83ng-n8n-C%E1%BB%91t-l%C3%B5i/06-Ph%C3%A2n-bi%E1%BB%87t-Trigger-Node-v%C3%A0-Action-Node</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/3-K%E1%BB%B9-n%C4%83ng-n8n-C%E1%BB%91t-l%C3%B5i/06-Ph%C3%A2n-bi%E1%BB%87t-Trigger-Node-v%C3%A0-Action-Node</guid>
+    <description><![CDATA[  Điều hướng Bài trước: 09-Tìm hiểu các định dạng Dữ liệu trong n8n - JSON và Binary Bài tiếp theo: 07-Trigger Nodes &amp; Action trong App Nodes Mục tiêu bài học Chào mừng bạn đến với bài học về các thành phần cốt lõi của n8n! Mục tiêu chính của buổi học này là giúp bạn hiểu và phân biệt rõ ràng hai... ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:14:07 GMT</pubDate>
   </item><item>
-    <title>Vai trò của LLM trong Quy trình Tự động hóa</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/LLM/Vai-tr%C3%B2-c%E1%BB%A7a-LLM-trong-Quy-tr%C3%ACnh-T%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/LLM/Vai-tr%C3%B2-c%E1%BB%A7a-LLM-trong-Quy-tr%C3%ACnh-T%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a</guid>
-    <description><![CDATA[ I. Lý thuyết 1.1. ]]></description>
-    <pubDate>Sun, 26 Apr 2026 06:05:43 GMT</pubDate>
+    <title>Trigger Nodes &amp; Action trong App Nodes</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/3-K%E1%BB%B9-n%C4%83ng-n8n-C%E1%BB%91t-l%C3%B5i/07-Trigger-Nodes--and--Action-trong-App-Nodes</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/3-K%E1%BB%B9-n%C4%83ng-n8n-C%E1%BB%91t-l%C3%B5i/07-Trigger-Nodes--and--Action-trong-App-Nodes</guid>
+    <description><![CDATA[  Điều hướng Bài trước: 06-Phân biệt Trigger Node và Action Node Bài tiếp theo: 08-Core Nodes &amp; Nguyên tắc Dataflow trong n8n I. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:14:07 GMT</pubDate>
+  </item><item>
+    <title>Core Nodes &amp; Nguyên tắc Dataflow trong n8n</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/3-K%E1%BB%B9-n%C4%83ng-n8n-C%E1%BB%91t-l%C3%B5i/08-Core-Nodes--and--Nguy%C3%AAn-t%E1%BA%AFc-Dataflow-trong-n8n</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/3-K%E1%BB%B9-n%C4%83ng-n8n-C%E1%BB%91t-l%C3%B5i/08-Core-Nodes--and--Nguy%C3%AAn-t%E1%BA%AFc-Dataflow-trong-n8n</guid>
+    <description><![CDATA[  Điều hướng Tới trang chủ: Wiki N8N Automation Bài trước: 07-Trigger Nodes &amp; Action trong App Nodes Bài tiếp theo: 09-Tìm hiểu các định dạng Dữ liệu trong n8n - JSON và Binary Core Nodes &amp; Nguyên tắc Dataflow trong n8n Mục tiêu Trong bài học này, chúng ta sẽ tìm hiểu về Core Nodes (Các Node ... ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:14:07 GMT</pubDate>
+  </item><item>
+    <title>Tìm hiểu các định dạng Dữ liệu trong n8n - JSON và Binary</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/3-K%E1%BB%B9-n%C4%83ng-n8n-C%E1%BB%91t-l%C3%B5i/09-T%C3%ACm-hi%E1%BB%83u-c%C3%A1c-%C4%91%E1%BB%8Bnh-d%E1%BA%A1ng-D%E1%BB%AF-li%E1%BB%87u-trong-n8n---JSON-v%C3%A0-Binary</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/3-K%E1%BB%B9-n%C4%83ng-n8n-C%E1%BB%91t-l%C3%B5i/09-T%C3%ACm-hi%E1%BB%83u-c%C3%A1c-%C4%91%E1%BB%8Bnh-d%E1%BA%A1ng-D%E1%BB%AF-li%E1%BB%87u-trong-n8n---JSON-v%C3%A0-Binary</guid>
+    <description><![CDATA[  Điều hướng Tới trang chủ: Wiki N8N Automation Bài trước: 08-Core Nodes &amp; Nguyên tắc Dataflow trong n8n Bài tiếp theo: 10-Data Transformation &amp; Flow Control Nodes trong n8n Tìm hiểu các định dạng Dữ liệu trong n8n - JSON và Binary Mục tiêu bài học Chào mừng bạn đến với bài học tìm hiểu về “n... ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:14:07 GMT</pubDate>
   </item>
     </channel>
   </rss>
