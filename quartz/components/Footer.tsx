@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          Made by Lucas
+          Made by Lucas © {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => {
