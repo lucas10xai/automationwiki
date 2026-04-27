@@ -70,11 +70,11 @@ Tận dụng tính năng Advanced AI của n8n để biến workflow thành mộ
 Thực chiến với các bài toán Automation ứng dụng thực tế.
 
 - 🔗 [[13-Dự án - Kết nối Lark với Obsidian qua n8n|Dự án: Kết nối Lark với Obsidian qua n8n]]
-- 📱 *[Sắp ra mắt] Tự động lập lịch & đăng bài Social Media (Facebook, LinkedIn)*
-- 🤖 *[Sắp ra mắt] Tạo Telegram Bot / Slack Bot phản hồi tự động bằng AI*
-- 📊 *[Sắp ra mắt] Đồng bộ Lead từ Landing Page sang CRM (HubSpot/Lark) và Google Sheets*
-- 📧 *[Sắp ra mắt] Đọc email tự động, phân tích bằng AI và lưu file đính kèm*
-- 📝 *[Sắp ra mắt] Auto-Blogging: Tự động thu thập tin tức và viết lại bài đăng lên WordPress*
+- 📱 [[30-Tự động lập lịch và đăng bài Social Media|Tự động lập lịch & đăng bài Social Media (Facebook, LinkedIn)]]
+- 🤖 [[31-Tạo Telegram Bot phản hồi tự động bằng AI|Tạo Telegram Bot / Slack Bot phản hồi tự động bằng AI]]
+- 📊 [[32-Đồng bộ Lead từ Landing Page sang CRM và Google Sheets|Đồng bộ Lead từ Landing Page sang CRM (HubSpot/Lark) và Google Sheets]]
+- 📧 [[33-Đọc email tự động phân tích bằng AI và lưu file đính kèm|Đọc email tự động, phân tích bằng AI và lưu file đính kèm]]
+- 📝 [[34-Auto-Blogging Tự động thu thập tin tức và viết bài lên WordPress|Auto-Blogging: Tự động thu thập tin tức và viết lại bài đăng lên WordPress]]
 
 ---
 
