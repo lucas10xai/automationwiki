@@ -6,6 +6,24 @@
       <description>10 Trang gần đây on 10XAI Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>25 - Cấu hình HTTPS, Reverse Proxy (Nginx) &amp; Cloudflare Tunnel</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/25-C%E1%BA%A5u-h%C3%ACnh-HTTPS-Reverse-Proxy-Nginx-v%C3%A0-Cloudflare-Tunnel</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/25-C%E1%BA%A5u-h%C3%ACnh-HTTPS-Reverse-Proxy-Nginx-v%C3%A0-Cloudflare-Tunnel</guid>
+    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 05-Cài đặt n8n trên Instance Raspberry Pi Bài tiếp theo: 26-Backup và Restore dữ liệu n8n 🔐 Cấu hình HTTPS, Reverse Proxy (Nginx) &amp; Cloudflare Tunnel Tổng quan Sau khi cài đặt n8n, bạn cần bảo mật và public instance ra internet một cách an... ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:51:26 GMT</pubDate>
+  </item><item>
+    <title>26 - Backup &amp; Restore dữ liệu n8n</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/26-Backup-v%C3%A0-Restore-d%E1%BB%AF-li%E1%BB%87u-n8n</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/26-Backup-v%C3%A0-Restore-d%E1%BB%AF-li%E1%BB%87u-n8n</guid>
+    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 25-Cấu hình HTTPS Reverse Proxy Nginx và Cloudflare Tunnel Bài tiếp theo: 06-Phân biệt Trigger Node và Action Node 🔄 Backup &amp; Restore dữ liệu n8n Tổng quan Workflows, credentials, executions — tất cả dữ liệu của bạn trong n8n có thể mất tr... ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:51:26 GMT</pubDate>
+  </item><item>
+    <title>🚀 n8n Automation Wiki Toàn Tập</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/</guid>
+    <description><![CDATA[  🌟 Chào mừng đến với n8n Automation Wiki! Đây là nơi tổng hợp tất cả kiến thức về n8n từ cơ bản đến nâng cao. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:51:26 GMT</pubDate>
+  </item><item>
     <title>1. AI &amp; Automation - Tổng quan và ứng dụng</title>
     <link>https://automationwiki.10xai.top/N8N-Automation/1-T%C6%B0-duy-v%C3%A0-Nh%E1%BA%ADp-m%C3%B4n/01-AI--and--Automation---T%E1%BB%95ng-quan-v%C3%A0-%E1%BB%A9ng-d%E1%BB%A5ng</link>
     <guid>https://automationwiki.10xai.top/N8N-Automation/1-T%C6%B0-duy-v%C3%A0-Nh%E1%BA%ADp-m%C3%B4n/01-AI--and--Automation---T%E1%BB%95ng-quan-v%C3%A0-%E1%BB%A9ng-d%E1%BB%A5ng</guid>
@@ -46,24 +64,6 @@
     <link>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/18-Execute-Workflow-Node---Thi%E1%BA%BFt-k%E1%BA%BF-Sub-workflows</link>
     <guid>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/18-Execute-Workflow-Node---Thi%E1%BA%BFt-k%E1%BA%BF-Sub-workflows</guid>
     <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 17-Error Handling - Bắt lỗi và xử lý ngoại lệ Bài tiếp theo: 19-Webhooks - Nhận dữ liệu thời gian thực 🔁 Execute Workflow Node — Thiết kế Sub-workflows Tổng quan Sub-workflow là kỹ thuật tách workflow lớn thành các phần nhỏ, có thể tái sử dụng... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
-  </item><item>
-    <title>19 - Webhooks - Nhận dữ liệu thời gian thực</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/19-Webhooks---Nh%E1%BA%ADn-d%E1%BB%AF-li%E1%BB%87u-th%E1%BB%9Di-gian-th%E1%BB%B1c</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/19-Webhooks---Nh%E1%BA%ADn-d%E1%BB%AF-li%E1%BB%87u-th%E1%BB%9Di-gian-th%E1%BB%B1c</guid>
-    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 18-Execute Workflow Node - Thiết kế Sub-workflows Bài tiếp theo: 20-Xử lý mảng Arrays Batching và Phân trang Pagination 🎣 Webhooks — Nhận dữ liệu thời gian thực Tổng quan Webhook là cơ chế để các ứng dụng bên ngoài chủ động gửi dữ liệu vào n8n... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
-  </item><item>
-    <title>20 - Xử lý mảng (Arrays), Batching và Phân trang (Pagination)</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/20-X%E1%BB%AD-l%C3%BD-m%E1%BA%A3ng-Arrays-Batching-v%C3%A0-Ph%C3%A2n-trang-Pagination</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/20-X%E1%BB%AD-l%C3%BD-m%E1%BA%A3ng-Arrays-Batching-v%C3%A0-Ph%C3%A2n-trang-Pagination</guid>
-    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 19-Webhooks - Nhận dữ liệu thời gian thực Bài tiếp theo: 12-Vai trò của LLM trong Quy trình Tự động hóa 📦 Xử lý mảng (Arrays), Batching và Phân trang (Pagination) Tổng quan Trong thực tế, workflows thường phải xử lý hàng trăm đến hàng nghìn it... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
-  </item><item>
-    <title>Vai trò của LLM trong Quy trình Tự động hóa</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/12-Vai-tr%C3%B2-c%E1%BB%A7a-LLM-trong-Quy-tr%C3%ACnh-T%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/12-Vai-tr%C3%B2-c%E1%BB%A7a-LLM-trong-Quy-tr%C3%ACnh-T%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a</guid>
-    <description><![CDATA[  I. Lý thuyết 1.1. ]]></description>
     <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
   </item>
     </channel>
