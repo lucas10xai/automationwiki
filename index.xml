@@ -6,6 +6,30 @@
       <description>10 Trang gần đây on 10XAI Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>27 - Best Practices: Cách tổ chức Workflow gọn gàng, dễ bảo trì</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/7-T%C3%A0i-nguy%C3%AAn-v%C3%A0-Best-Practices/27-Best-Practices-C%C3%A1ch-t%E1%BB%95-ch%E1%BB%A9c-Workflow-g%E1%BB%8Dn-g%C3%A0ng-d%E1%BB%85-b%E1%BA%A3o-tr%C3%AC</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/7-T%C3%A0i-nguy%C3%AAn-v%C3%A0-Best-Practices/27-Best-Practices-C%C3%A1ch-t%E1%BB%95-ch%E1%BB%A9c-Workflow-g%E1%BB%8Dn-g%C3%A0ng-d%E1%BB%85-b%E1%BA%A3o-tr%C3%AC</guid>
+    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài tiếp theo: 28-Tổng hợp các nguồn học n8n và Cộng đồng 🏆 Best Practices: Cách tổ chức Workflow gọn gàng, dễ bảo trì Tổng quan Viết một workflow chạy được thì dễ — nhưng viết một workflow mà 6 tháng sau bạn vẫn hiểu ngay khi mở ra mới là nghệ thuật. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:59:11 GMT</pubDate>
+  </item><item>
+    <title>28 - Tổng hợp các nguồn học n8n và Cộng đồng</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/7-T%C3%A0i-nguy%C3%AAn-v%C3%A0-Best-Practices/28-T%E1%BB%95ng-h%E1%BB%A3p-c%C3%A1c-ngu%E1%BB%93n-h%E1%BB%8Dc-n8n-v%C3%A0-C%E1%BB%99ng-%C4%91%E1%BB%93ng</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/7-T%C3%A0i-nguy%C3%AAn-v%C3%A0-Best-Practices/28-T%E1%BB%95ng-h%E1%BB%A3p-c%C3%A1c-ngu%E1%BB%93n-h%E1%BB%8Dc-n8n-v%C3%A0-C%E1%BB%99ng-%C4%91%E1%BB%93ng</guid>
+    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 27-Best Practices Cách tổ chức Workflow gọn gàng dễ bảo trì Bài tiếp theo: 29-Các Node cộng đồng Community Nodes hữu ích nhất 🌍 Tổng hợp các nguồn học n8n và Cộng đồng Tổng quan n8n có một hệ sinh thái tài liệu và cộng đồng rất phong phú. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:59:11 GMT</pubDate>
+  </item><item>
+    <title>29 - Các Node cộng đồng (Community Nodes) hữu ích nhất</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/7-T%C3%A0i-nguy%C3%AAn-v%C3%A0-Best-Practices/29-C%C3%A1c-Node-c%E1%BB%99ng-%C4%91%E1%BB%93ng-Community-Nodes-h%E1%BB%AFu-%C3%ADch-nh%E1%BA%A5t</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/7-T%C3%A0i-nguy%C3%AAn-v%C3%A0-Best-Practices/29-C%C3%A1c-Node-c%E1%BB%99ng-%C4%91%E1%BB%93ng-Community-Nodes-h%E1%BB%AFu-%C3%ADch-nh%E1%BA%A5t</guid>
+    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 28-Tổng hợp các nguồn học n8n và Cộng đồng 💡 Các Node cộng đồng (Community Nodes) hữu ích nhất Tổng quan Ngoài hơn 400 node tích hợp sẵn, n8n còn có một kho Community Nodes — các node do cộng đồng phát triển và chia sẻ miễn phí. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:59:11 GMT</pubDate>
+  </item><item>
+    <title>🚀 n8n Automation Wiki Toàn Tập</title>
+    <link>https://automationwiki.10xai.top/N8N-Automation/</link>
+    <guid>https://automationwiki.10xai.top/N8N-Automation/</guid>
+    <description><![CDATA[  🌟 Chào mừng đến với n8n Automation Wiki! Đây là nơi tổng hợp tất cả kiến thức về n8n từ cơ bản đến nâng cao. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 02:59:11 GMT</pubDate>
+  </item><item>
     <title>25 - Cấu hình HTTPS, Reverse Proxy (Nginx) &amp; Cloudflare Tunnel</title>
     <link>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/25-C%E1%BA%A5u-h%C3%ACnh-HTTPS-Reverse-Proxy-Nginx-v%C3%A0-Cloudflare-Tunnel</link>
     <guid>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/25-C%E1%BA%A5u-h%C3%ACnh-HTTPS-Reverse-Proxy-Nginx-v%C3%A0-Cloudflare-Tunnel</guid>
@@ -16,12 +40,6 @@
     <link>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/26-Backup-v%C3%A0-Restore-d%E1%BB%AF-li%E1%BB%87u-n8n</link>
     <guid>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/26-Backup-v%C3%A0-Restore-d%E1%BB%AF-li%E1%BB%87u-n8n</guid>
     <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 25-Cấu hình HTTPS Reverse Proxy Nginx và Cloudflare Tunnel Bài tiếp theo: 06-Phân biệt Trigger Node và Action Node 🔄 Backup &amp; Restore dữ liệu n8n Tổng quan Workflows, credentials, executions — tất cả dữ liệu của bạn trong n8n có thể mất tr... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:51:26 GMT</pubDate>
-  </item><item>
-    <title>🚀 n8n Automation Wiki Toàn Tập</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/</guid>
-    <description><![CDATA[  🌟 Chào mừng đến với n8n Automation Wiki! Đây là nơi tổng hợp tất cả kiến thức về n8n từ cơ bản đến nâng cao. ]]></description>
     <pubDate>Mon, 27 Apr 2026 02:51:26 GMT</pubDate>
   </item><item>
     <title>1. AI &amp; Automation - Tổng quan và ứng dụng</title>
@@ -46,24 +64,6 @@
     <link>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/15-Node-HTTP-Request---G%E1%BB%8Di-b%E1%BA%A5t-k%E1%BB%B3-API-n%C3%A0o</link>
     <guid>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/15-Node-HTTP-Request---G%E1%BB%8Di-b%E1%BA%A5t-k%E1%BB%B3-API-n%C3%A0o</guid>
     <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 14-Sử dụng Expressions và Formulas trong n8n Bài tiếp theo: 16-Node Code - Viết code tùy chỉnh JavaScript Python 🌐 Node HTTP Request — Gọi bất kỳ API nào Tổng quan HTTP Request là node mạnh mẽ nhất trong n8n. ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
-  </item><item>
-    <title>16 - Node Code - Viết code tùy chỉnh JavaScript/Python</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/16-Node-Code---Vi%E1%BA%BFt-code-t%C3%B9y-ch%E1%BB%89nh-JavaScript-Python</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/16-Node-Code---Vi%E1%BA%BFt-code-t%C3%B9y-ch%E1%BB%89nh-JavaScript-Python</guid>
-    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 15-Node HTTP Request - Gọi bất kỳ API nào Bài tiếp theo: 17-Error Handling - Bắt lỗi và xử lý ngoại lệ 🧑‍💻 Node Code — Viết code tùy chỉnh JavaScript/Python Tổng quan Khi các node có sẵn không đủ sức xử lý logic phức tạp, Code Node là “vũ khí... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
-  </item><item>
-    <title>17 - Error Handling - Bắt lỗi và xử lý ngoại lệ</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/17-Error-Handling---B%E1%BA%AFt-l%E1%BB%97i-v%C3%A0-x%E1%BB%AD-l%C3%BD-ngo%E1%BA%A1i-l%E1%BB%87</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/17-Error-Handling---B%E1%BA%AFt-l%E1%BB%97i-v%C3%A0-x%E1%BB%AD-l%C3%BD-ngo%E1%BA%A1i-l%E1%BB%87</guid>
-    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 16-Node Code - Viết code tùy chỉnh JavaScript Python Bài tiếp theo: 18-Execute Workflow Node - Thiết kế Sub-workflows 🛡️ Error Handling — Bắt lỗi và xử lý ngoại lệ Tổng quan Workflow trong môi trường production luôn có thể gặp lỗi — API bị tim... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
-  </item><item>
-    <title>18 - Execute Workflow Node - Thiết kế Sub-workflows</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/18-Execute-Workflow-Node---Thi%E1%BA%BFt-k%E1%BA%BF-Sub-workflows</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/18-Execute-Workflow-Node---Thi%E1%BA%BFt-k%E1%BA%BF-Sub-workflows</guid>
-    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 17-Error Handling - Bắt lỗi và xử lý ngoại lệ Bài tiếp theo: 19-Webhooks - Nhận dữ liệu thời gian thực 🔁 Execute Workflow Node — Thiết kế Sub-workflows Tổng quan Sub-workflow là kỹ thuật tách workflow lớn thành các phần nhỏ, có thể tái sử dụng... ]]></description>
     <pubDate>Mon, 27 Apr 2026 02:40:20 GMT</pubDate>
   </item>
     </channel>
