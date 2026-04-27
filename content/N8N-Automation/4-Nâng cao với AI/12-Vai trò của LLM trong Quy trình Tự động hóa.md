@@ -4,6 +4,9 @@ title: "Vai trò của LLM trong Quy trình Tự động hóa"
 tags: []
 ---
 
+![Cover Image](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80)
+
+
 I. Lý thuyết
 1.1. LLM là gì?
 LLM (Large Language Model - Mô hình Ngôn ngữ Lớn) là một loại mô
@@ -128,5 +131,5 @@ mọi phản hồi từ khách hàng sẽ được xử lý một cách thông m
 động.
 
 ---
-**Bài trước:** [[Tìm hiểu các định dạng Dữ liệu trong n8n - JSON và Binary]]
-**Quay lại:** [[N8N 101 - Mục lục]]
+**Bài trước:** [[09-Tìm hiểu các định dạng Dữ liệu trong n8n - JSON và Binary]]
+**Quay lại:** [[00-N8N 101 - Mục lục]]
