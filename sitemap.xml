@@ -1,6 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://automationwiki.10xai.top/N8N-Automation/00-N8N-101---M%E1%BB%A5c-l%E1%BB%A5c</loc>
-    <lastmod>2026-04-27T02:14:07.000Z</lastmod>
+    <lastmod>2026-04-27T02:21:45.000Z</lastmod>
   </url><url>
     <loc>https://automationwiki.10xai.top/N8N-Automation/1-T%C6%B0-duy-v%C3%A0-Nh%E1%BA%ADp-m%C3%B4n/01-AI--and--Automation---T%E1%BB%95ng-quan-v%C3%A0-%E1%BB%A9ng-d%E1%BB%A5ng</loc>
     <lastmod>2026-04-27T02:14:07.000Z</lastmod>
@@ -35,11 +35,32 @@
     <loc>https://automationwiki.10xai.top/N8N-Automation/3-K%E1%BB%B9-n%C4%83ng-n8n-C%E1%BB%91t-l%C3%B5i/11-Qu%E1%BA%A3n-l%C3%AD-Credential-(Th%C3%B4ng-tin-x%C3%A1c-th%E1%BB%B1c)</loc>
     <lastmod>2026-04-27T02:14:07.000Z</lastmod>
   </url><url>
-    <loc>https://automationwiki.10xai.top/N8N-Automation/4-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/12-Vai-tr%C3%B2-c%E1%BB%A7a-LLM-trong-Quy-tr%C3%ACnh-T%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a</loc>
-    <lastmod>2026-04-27T02:14:07.000Z</lastmod>
+    <loc>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/14-S%E1%BB%AD-d%E1%BB%A5ng-Expressions-v%C3%A0-Formulas-trong-n8n</loc>
+    <lastmod>2026-04-27T02:21:45.000Z</lastmod>
   </url><url>
-    <loc>https://automationwiki.10xai.top/N8N-Automation/5-D%E1%BB%B1-%C3%A1n-th%E1%BB%B1c-h%C3%A0nh/13-D%E1%BB%B1-%C3%A1n---K%E1%BA%BFt-n%E1%BB%91i-Lark-v%E1%BB%9Bi-Obsidian-qua-n8n</loc>
-    <lastmod>2026-04-27T02:14:07.000Z</lastmod>
+    <loc>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/15-Node-HTTP-Request---G%E1%BB%8Di-b%E1%BA%A5t-k%E1%BB%B3-API-n%C3%A0o</loc>
+    <lastmod>2026-04-27T02:21:45.000Z</lastmod>
+  </url><url>
+    <loc>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/16-Node-Code---Vi%E1%BA%BFt-code-t%C3%B9y-ch%E1%BB%89nh-JavaScript-Python</loc>
+    <lastmod>2026-04-27T02:21:45.000Z</lastmod>
+  </url><url>
+    <loc>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/17-Error-Handling---B%E1%BA%AFt-l%E1%BB%97i-v%C3%A0-x%E1%BB%AD-l%C3%BD-ngo%E1%BA%A1i-l%E1%BB%87</loc>
+    <lastmod>2026-04-27T02:21:45.000Z</lastmod>
+  </url><url>
+    <loc>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/18-Execute-Workflow-Node---Thi%E1%BA%BFt-k%E1%BA%BF-Sub-workflows</loc>
+    <lastmod>2026-04-27T02:21:45.000Z</lastmod>
+  </url><url>
+    <loc>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/19-Webhooks---Nh%E1%BA%ADn-d%E1%BB%AF-li%E1%BB%87u-th%E1%BB%9Di-gian-th%E1%BB%B1c</loc>
+    <lastmod>2026-04-27T02:21:45.000Z</lastmod>
+  </url><url>
+    <loc>https://automationwiki.10xai.top/N8N-Automation/4-K%E1%BB%B9-n%C4%83ng-N%C3%A2ng-cao/20-X%E1%BB%AD-l%C3%BD-m%E1%BA%A3ng-Arrays-Batching-v%C3%A0-Ph%C3%A2n-trang-Pagination</loc>
+    <lastmod>2026-04-27T02:21:45.000Z</lastmod>
+  </url><url>
+    <loc>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/12-Vai-tr%C3%B2-c%E1%BB%A7a-LLM-trong-Quy-tr%C3%ACnh-T%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a</loc>
+    <lastmod>2026-04-27T02:21:45.000Z</lastmod>
+  </url><url>
+    <loc>https://automationwiki.10xai.top/N8N-Automation/6-D%E1%BB%B1-%C3%A1n-th%E1%BB%B1c-h%C3%A0nh/13-D%E1%BB%B1-%C3%A1n---K%E1%BA%BFt-n%E1%BB%91i-Lark-v%E1%BB%9Bi-Obsidian-qua-n8n</loc>
+    <lastmod>2026-04-27T02:21:45.000Z</lastmod>
   </url><url>
     <loc>https://automationwiki.10xai.top/N8N-Automation/Machine-Learning-Specialization---Andrew-Ng</loc>
     <lastmod>2026-04-19T00:00:00.000Z</lastmod>
