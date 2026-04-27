@@ -1,6 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://automationwiki.10xai.top/N8N-Automation/00-N8N-101---M%E1%BB%A5c-l%E1%BB%A5c</loc>
-    <lastmod>2026-04-27T02:21:45.000Z</lastmod>
+    <lastmod>2026-04-27T02:34:29.000Z</lastmod>
   </url><url>
     <loc>https://automationwiki.10xai.top/N8N-Automation/1-T%C6%B0-duy-v%C3%A0-Nh%E1%BA%ADp-m%C3%B4n/01-AI--and--Automation---T%E1%BB%95ng-quan-v%C3%A0-%E1%BB%A9ng-d%E1%BB%A5ng</loc>
     <lastmod>2026-04-27T02:14:07.000Z</lastmod>
@@ -59,6 +59,18 @@
     <loc>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/12-Vai-tr%C3%B2-c%E1%BB%A7a-LLM-trong-Quy-tr%C3%ACnh-T%E1%BB%B1-%C4%91%E1%BB%99ng-h%C3%B3a</loc>
     <lastmod>2026-04-27T02:21:45.000Z</lastmod>
   </url><url>
+    <loc>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/21-K%E1%BA%BFt-n%E1%BB%91i-OpenAI-v%C3%A0-Anthropic-Claude-v%C3%A0o-n8n</loc>
+    <lastmod>2026-04-27T02:34:29.000Z</lastmod>
+  </url><url>
+    <loc>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/22-X%C3%A2y-d%E1%BB%B1ng-AI-Agent-v%E1%BB%9Bi-c%C3%A1c-Tools-t%C3%B9y-ch%E1%BB%89nh</loc>
+    <lastmod>2026-04-27T02:34:29.000Z</lastmod>
+  </url><url>
+    <loc>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/23-%E1%BB%A8ng-d%E1%BB%A5ng-RAG-v%C3%A0-Vector-Store-trong-n8n</loc>
+    <lastmod>2026-04-27T02:34:29.000Z</lastmod>
+  </url><url>
+    <loc>https://automationwiki.10xai.top/N8N-Automation/5-N%C3%A2ng-cao-v%E1%BB%9Bi-AI/24-C%E1%BA%A5p-ph%C3%A1t-Memory-cho-AI-Agent</loc>
+    <lastmod>2026-04-27T02:34:29.000Z</lastmod>
+  </url><url>
     <loc>https://automationwiki.10xai.top/N8N-Automation/6-D%E1%BB%B1-%C3%A1n-th%E1%BB%B1c-h%C3%A0nh/13-D%E1%BB%B1-%C3%A1n---K%E1%BA%BFt-n%E1%BB%91i-Lark-v%E1%BB%9Bi-Obsidian-qua-n8n</loc>
     <lastmod>2026-04-27T02:21:45.000Z</lastmod>
   </url><url>
@@ -66,7 +78,7 @@
     <lastmod>2026-04-19T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://automationwiki.10xai.top/N8N-Automation/</loc>
-    <lastmod>2026-04-27T02:27:32.000Z</lastmod>
+    <lastmod>2026-04-27T02:34:29.000Z</lastmod>
   </url><url>
     <loc>https://automationwiki.10xai.top/</loc>
     <lastmod>2026-04-26T04:14:01.000Z</lastmod>
