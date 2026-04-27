@@ -5,7 +5,7 @@ publish: true
 ---
 
 > [!nav] Điều hướng
-> **Mục lục:** [[00-N8N 101 - Mục lục]]
+> **Mục lục:** [[index|🏠 Wiki N8N - Trang chủ]]
 > **Bài trước:** [[15-Node HTTP Request - Gọi bất kỳ API nào]]
 > **Bài tiếp theo:** [[17-Error Handling - Bắt lỗi và xử lý ngoại lệ]]
 

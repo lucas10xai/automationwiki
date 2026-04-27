@@ -5,7 +5,7 @@ publish: true
 ---
 
 > [!nav] Điều hướng
-> **Mục lục:** [[00-N8N 101 - Mục lục]]
+> **Mục lục:** [[index|🏠 Wiki N8N - Trang chủ]]
 > **Bài trước:** [[23-Ứng dụng RAG và Vector Store trong n8n]]
 > **Bài tiếp theo:** [[13-Dự án - Kết nối Lark với Obsidian qua n8n]]
 

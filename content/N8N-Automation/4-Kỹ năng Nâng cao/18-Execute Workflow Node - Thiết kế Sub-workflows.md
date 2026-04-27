@@ -5,7 +5,7 @@ publish: true
 ---
 
 > [!nav] Điều hướng
-> **Mục lục:** [[00-N8N 101 - Mục lục]]
+> **Mục lục:** [[index|🏠 Wiki N8N - Trang chủ]]
 > **Bài trước:** [[17-Error Handling - Bắt lỗi và xử lý ngoại lệ]]
 > **Bài tiếp theo:** [[19-Webhooks - Nhận dữ liệu thời gian thực]]
 

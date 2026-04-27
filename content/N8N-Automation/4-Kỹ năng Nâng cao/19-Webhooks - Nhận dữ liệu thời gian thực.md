@@ -5,7 +5,7 @@ publish: true
 ---
 
 > [!nav] Điều hướng
-> **Mục lục:** [[00-N8N 101 - Mục lục]]
+> **Mục lục:** [[index|🏠 Wiki N8N - Trang chủ]]
 > **Bài trước:** [[18-Execute Workflow Node - Thiết kế Sub-workflows]]
 > **Bài tiếp theo:** [[20-Xử lý mảng Arrays Batching và Phân trang Pagination]]
 

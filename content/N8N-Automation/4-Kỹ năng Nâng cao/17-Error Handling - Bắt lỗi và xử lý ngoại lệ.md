@@ -5,7 +5,7 @@ publish: true
 ---
 
 > [!nav] Điều hướng
-> **Mục lục:** [[00-N8N 101 - Mục lục]]
+> **Mục lục:** [[index|🏠 Wiki N8N - Trang chủ]]
 > **Bài trước:** [[16-Node Code - Viết code tùy chỉnh JavaScript Python]]
 > **Bài tiếp theo:** [[18-Execute Workflow Node - Thiết kế Sub-workflows]]
 

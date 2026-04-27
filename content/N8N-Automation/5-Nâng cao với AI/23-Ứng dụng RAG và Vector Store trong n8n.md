@@ -5,7 +5,7 @@ publish: true
 ---
 
 > [!nav] Điều hướng
-> **Mục lục:** [[00-N8N 101 - Mục lục]]
+> **Mục lục:** [[index|🏠 Wiki N8N - Trang chủ]]
 > **Bài trước:** [[22-Xây dựng AI Agent với các Tools tùy chỉnh]]
 > **Bài tiếp theo:** [[24-Cấp phát Memory cho AI Agent]]
 

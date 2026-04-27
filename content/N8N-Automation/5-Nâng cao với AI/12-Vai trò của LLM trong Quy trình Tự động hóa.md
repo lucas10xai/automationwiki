@@ -132,4 +132,4 @@ mọi phản hồi từ khách hàng sẽ được xử lý một cách thông m
 
 ---
 **Bài trước:** [[09-Tìm hiểu các định dạng Dữ liệu trong n8n - JSON và Binary]]
-**Quay lại:** [[00-N8N 101 - Mục lục]]
+**Quay lại:** [[index|🏠 Wiki N8N - Trang chủ]]

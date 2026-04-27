@@ -5,7 +5,7 @@ publish: true
 ---
 
 > [!nav] Điều hướng
-> **Mục lục:** [[00-N8N 101 - Mục lục]]
+> **Mục lục:** [[index|🏠 Wiki N8N - Trang chủ]]
 > **Bài trước:** [[11-Quản lí Credential (Thông tin xác thực)]]
 > **Bài tiếp theo:** [[15-Node HTTP Request - Gọi bất kỳ API nào]]
 

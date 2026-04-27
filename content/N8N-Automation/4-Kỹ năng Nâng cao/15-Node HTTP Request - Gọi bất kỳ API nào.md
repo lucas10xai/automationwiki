@@ -5,7 +5,7 @@ publish: true
 ---
 
 > [!nav] Điều hướng
-> **Mục lục:** [[00-N8N 101 - Mục lục]]
+> **Mục lục:** [[index|🏠 Wiki N8N - Trang chủ]]
 > **Bài trước:** [[14-Sử dụng Expressions và Formulas trong n8n]]
 > **Bài tiếp theo:** [[16-Node Code - Viết code tùy chỉnh JavaScript Python]]
 

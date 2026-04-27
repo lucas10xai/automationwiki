@@ -6,7 +6,7 @@ publish: true
 
 > [!nav] Điều hướng
 > **Tới trang chủ:** [[index|Wiki N8N Automation]]
-> **Bài trước:** [[00-N8N 101 - Mục lục]]
+> **Bài trước:** [[index|🏠 Wiki N8N - Trang chủ]]
 > **Bài tiếp theo:** [[04-Cài đặt n8n trên Instance EC2 Amazon Web Service]]
 
 
@@ -149,5 +149,5 @@ Lệnh này sẽ đọc file `docker-compose.yml`, tải image n8n (nếu chưa 
 ---
 
 > [!nav] Điều hướng
-> **Bài trước:** [[00-N8N 101 - Mục lục]]
+> **Bài trước:** [[index|🏠 Wiki N8N - Trang chủ]]
 > **Bài tiếp theo:** [[04-Cài đặt n8n trên Instance EC2 Amazon Web Service]]

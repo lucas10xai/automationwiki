@@ -9,7 +9,7 @@ publish: false
 ---
 
 > [!nav] Điều hướng
-> **Bài trước:** [[00-N8N 101 - Mục lục]]
+> **Bài trước:** [[index|🏠 Wiki N8N - Trang chủ]]
 > **Bài tiếp theo:** [[02-Giới thiệu n8n và triết lý low-code]]
 
 
@@ -103,5 +103,5 @@ Sự kết hợp này mang lại sức mạnh vượt trội:
 ---
 
 > [!nav] Điều hướng
-> **Bài trước:** [[00-N8N 101 - Mục lục]]
+> **Bài trước:** [[index|🏠 Wiki N8N - Trang chủ]]
 > **Bài tiếp theo:** [[02-Giới thiệu n8n và triết lý low-code]]
