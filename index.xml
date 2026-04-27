@@ -6,6 +6,12 @@
       <description>10 Trang gần đây on 10XAI Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>🚀 n8n Automation Wiki Toàn Tập</title>
+    <link>https://automationwiki.10xai.top/</link>
+    <guid>https://automationwiki.10xai.top/</guid>
+    <description><![CDATA[  🌟 Chào mừng đến với n8n Automation Wiki! Đây là nơi tổng hợp tất cả kiến thức về n8n từ cơ bản đến nâng cao. ]]></description>
+    <pubDate>Mon, 27 Apr 2026 03:18:12 GMT</pubDate>
+  </item><item>
     <title>30 - Dự án: Tự động lập lịch &amp; đăng bài Social Media</title>
     <link>https://automationwiki.10xai.top/N8N-Automation/6-D%E1%BB%B1-%C3%A1n-th%E1%BB%B1c-h%C3%A0nh/30-T%E1%BB%B1-%C4%91%E1%BB%99ng-l%E1%BA%ADp-l%E1%BB%8Bch-v%C3%A0-%C4%91%C4%83ng-b%C3%A0i-Social-Media</link>
     <guid>https://automationwiki.10xai.top/N8N-Automation/6-D%E1%BB%B1-%C3%A1n-th%E1%BB%B1c-h%C3%A0nh/30-T%E1%BB%B1-%C4%91%E1%BB%99ng-l%E1%BA%ADp-l%E1%BB%8Bch-v%C3%A0-%C4%91%C4%83ng-b%C3%A0i-Social-Media</guid>
@@ -59,12 +65,6 @@
     <guid>https://automationwiki.10xai.top/N8N-Automation/7-T%C3%A0i-nguy%C3%AAn-v%C3%A0-Best-Practices/29-C%C3%A1c-Node-c%E1%BB%99ng-%C4%91%E1%BB%93ng-Community-Nodes-h%E1%BB%AFu-%C3%ADch-nh%E1%BA%A5t</guid>
     <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 28-Tổng hợp các nguồn học n8n và Cộng đồng 💡 Các Node cộng đồng (Community Nodes) hữu ích nhất Tổng quan Ngoài hơn 400 node tích hợp sẵn, n8n còn có một kho Community Nodes — các node do cộng đồng phát triển và chia sẻ miễn phí. ]]></description>
     <pubDate>Mon, 27 Apr 2026 02:59:11 GMT</pubDate>
-  </item><item>
-    <title>25 - Cấu hình HTTPS, Reverse Proxy (Nginx) &amp; Cloudflare Tunnel</title>
-    <link>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/25-C%E1%BA%A5u-h%C3%ACnh-HTTPS-Reverse-Proxy-Nginx-v%C3%A0-Cloudflare-Tunnel</link>
-    <guid>https://automationwiki.10xai.top/N8N-Automation/2-C%C3%A0i-%C4%91%E1%BA%B7t-h%E1%BB%87-th%E1%BB%91ng/25-C%E1%BA%A5u-h%C3%ACnh-HTTPS-Reverse-Proxy-Nginx-v%C3%A0-Cloudflare-Tunnel</guid>
-    <description><![CDATA[  Điều hướng Mục lục: 🏠 Wiki N8N - Trang chủ Bài trước: 05-Cài đặt n8n trên Instance Raspberry Pi Bài tiếp theo: 26-Backup và Restore dữ liệu n8n 🔐 Cấu hình HTTPS, Reverse Proxy (Nginx) &amp; Cloudflare Tunnel Tổng quan Sau khi cài đặt n8n, bạn cần bảo mật và public instance ra internet một cách an... ]]></description>
-    <pubDate>Mon, 27 Apr 2026 02:51:26 GMT</pubDate>
   </item>
     </channel>
   </rss>
