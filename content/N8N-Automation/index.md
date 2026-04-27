@@ -25,8 +25,8 @@ Hướng dẫn chi tiết từng bước để tự host n8n trên các nền t�
 - 🐳 [[03-Cài đặt n8n Self-host qua Docker|Cài đặt n8n qua Docker (Khuyên dùng)]]
 - ☁️ [[04-Cài đặt n8n trên Instance EC2 Amazon Web Service|Deploy trên AWS EC2]]
 - 🍓 [[05-Cài đặt n8n trên Instance Raspberry Pi|Deploy trên Raspberry Pi]]
-- 🔐 *[Sắp ra mắt] Cấu hình HTTPS, Reverse Proxy (Nginx) & Cloudflare Tunnel*
-- 🔄 *[Sắp ra mắt] Backup & Restore dữ liệu n8n*
+- 🔐 [[25-Cấu hình HTTPS Reverse Proxy Nginx và Cloudflare Tunnel|Cấu hình HTTPS, Reverse Proxy (Nginx) & Cloudflare Tunnel]]
+- 🔄 [[26-Backup và Restore dữ liệu n8n|Backup & Restore dữ liệu n8n]]
 
 ---
 
