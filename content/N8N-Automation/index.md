@@ -45,13 +45,13 @@ Nắm vững các khái niệm nền tảng để xây dựng bất kỳ workflo
 ## ⚡ 4. Kỹ năng Nâng cao (Advanced & Pro)
 Đưa kỹ năng của bạn lên một tầm cao mới với việc xử lý logic phức tạp.
 
-- 💻 *[Sắp ra mắt] Sử dụng Expressions & Formulas trong n8n*
-- 🌐 *[Sắp ra mắt] Node HTTP Request - Gọi bất kỳ API nào*
-- 🧑‍💻 *[Sắp ra mắt] Node Code (JavaScript/Python) - Viết code tùy chỉnh*
-- 🛡️ *[Sắp ra mắt] Error Handling - Bắt lỗi và xử lý ngoại lệ*
-- 🔁 *[Sắp ra mắt] Execute Workflow Node - Thiết kế Sub-workflows*
-- 🎣 *[Sắp ra mắt] Webhooks - Nhận dữ liệu thời gian thực*
-- 📦 *[Sắp ra mắt] Xử lý mảng (Arrays), Batching và Phân trang (Pagination)*
+- 💻 [[14-Sử dụng Expressions và Formulas trong n8n|Sử dụng Expressions & Formulas trong n8n]]
+- 🌐 [[15-Node HTTP Request - Gọi bất kỳ API nào|Node HTTP Request - Gọi bất kỳ API nào]]
+- 🧑‍💻 [[16-Node Code - Viết code tùy chỉnh JavaScript Python|Node Code (JavaScript/Python) - Viết code tùy chỉnh]]
+- 🛡️ [[17-Error Handling - Bắt lỗi và xử lý ngoại lệ|Error Handling - Bắt lỗi và xử lý ngoại lệ]]
+- 🔁 [[18-Execute Workflow Node - Thiết kế Sub-workflows|Execute Workflow Node - Thiết kế Sub-workflows]]
+- 🎣 [[19-Webhooks - Nhận dữ liệu thời gian thực|Webhooks - Nhận dữ liệu thời gian thực]]
+- 📦 [[20-Xử lý mảng Arrays Batching và Phân trang Pagination|Xử lý mảng (Arrays), Batching và Phân trang (Pagination)]]
 
 ---
 
